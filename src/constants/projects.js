@@ -1,0 +1,38 @@
+export const projects = [
+    {
+      title: 'E-Commerce',
+      description: "A freelancing project built with clients. This website allows people to buy physical goods from the Giliz company over the internet rather than at a brick-and-mortar location. This website processes orders, handles discounts and accepts payments.",
+        image: '/images/1.png',
+        tags: ['React', 'JavaScript', 'API'],
+      source: 'https://giliz.netlify.app',
+      visit: 'https://google.com',
+      id: 0,
+    },
+    {
+      title: 'Crypto-Tracker',
+      description:"A cryptocurrency price tracker that monitors the current value of digital currencies, in addition to information about market capitalization, trading volume, price charts, and other types of data.",
+      image: '/images/2.png',
+      tags: ['React', 'JavaScript','API'],
+      source: 'https://crypto-tracker-ofir-efraim.netlify.app',
+      visit: 'https://google.com',
+      id: 1,
+    },
+    {
+      title: 'Notes',
+      description: "This is a MERN website. It allows the user to create/delete tasks you need to complete or things that you want to do. Helping you not forget anything important.  ",
+        image: '/images/3.jpg',
+        tags: ['React', 'Node', 'Express', 'Mongo'],
+      source: 'https://google.com',
+      visit: 'https://google.com',
+      id: 2,
+    },
+    {
+      title: 'Authentication',
+      description: "This Website uses OAuth 2.0 to register and login users. In addition authenticated users can post a secret for other authenticated users to see.",
+      image: '/images/4.jpg',
+      tags: ['HTML', 'CSS', 'JavaScript','Express','Mongo'],
+      source: 'https://google.com',
+      visit: 'https://google.com',
+      id: 3,
+    },
+  ];
