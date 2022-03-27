@@ -19,7 +19,7 @@ const Footer = () => {
           <p className={classes.slogan}>Making ideas come alive on the internet</p>
         </div>
         <div className={classes.socialContainer}>
-          <a href="https://github.com/OfirEfraim" className={classes.icon}>
+          <a href="https://github.com/Ofir-Efraim" className={classes.icon}>
             <AiFillGithub size="3rem"></AiFillGithub>
           </a>
           <a href="https://www.linkedin.com/in/ofir-efraim/" className={classes.icon}>

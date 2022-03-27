@@ -5,7 +5,7 @@ export const projects = [
         image: '/images/1.png',
         tags: ['React', 'JavaScript', 'API'],
       source: 'https://giliz.netlify.app',
-      visit: 'https://google.com',
+      visit: 'https://github.com/Ofir-Efraim/Ecommerce-React-Website',
       id: 0,
     },
     {
@@ -14,7 +14,7 @@ export const projects = [
       image: '/images/2.png',
       tags: ['React', 'JavaScript','API'],
       source: 'https://crypto-tracker-ofir-efraim.netlify.app',
-      visit: 'https://google.com',
+      visit: 'https://github.com/Ofir-Efraim/Crypto-tracker',
       id: 1,
     },
     {
@@ -23,7 +23,7 @@ export const projects = [
         image: '/images/3.jpg',
         tags: ['React', 'Node', 'Express', 'Mongo'],
       source: 'https://google.com',
-      visit: 'https://google.com',
+      visit: 'https://github.com/Ofir-Efraim/Notes-Website',
       id: 2,
     },
     {
@@ -32,7 +32,7 @@ export const projects = [
       image: '/images/4.jpg',
       tags: ['HTML', 'CSS', 'JavaScript','Express','Mongo'],
       source: 'https://google.com',
-      visit: 'https://google.com',
+      visit: 'https://github.com/Ofir-Efraim/Authentication/tree/main',
       id: 3,
     },
   ];

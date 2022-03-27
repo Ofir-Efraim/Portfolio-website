@@ -14,9 +14,9 @@ const About = ({Pdf}) => {
           I'm a Self-Taught Full-Stack Developer. I have a <br />
           great passion for web development. <br />
           <br />
-          Well-organized person, quick learner, problem solver, <br />
-          independent employee with high attention to detail. <br />
-          Basketball fan, gym rat and stock market enthusiast.
+          Fluent English speaker, well-organized person, <br /> quick learner, problem solver,
+          independent employee <br /> with high attention to detail.
+          Basketball fan, <br /> gym rat and stock market enthusiast.
           <br />
           <br />
           Interested in the entire Full-Stack specturm and working <br />

@@ -26,7 +26,7 @@ const Header = () => {
         </li>
       </div>
       <div className={classes.rightDiv}>
-      <a href='https://github.com/OfirEfraim' className={classes.icon}>
+      <a href='https://github.com/Ofir-Efraim' className={classes.icon}>
         <AiFillGithub size="3rem"></AiFillGithub>
       </a>
       <a href='https://www.linkedin.com/in/ofir-efraim/' className={classes.icon}>
